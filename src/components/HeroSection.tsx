@@ -1,0 +1,17 @@
+import React from 'react';
+
+const HeroSection: React.FC = () => {
+    return (
+        <section className="w-full flex justify-center items-center bg-white" id="home">
+            <img
+                src="/imgs/background.jpg"
+                alt="Background"
+                className="w-[70vw] max-w-full h-auto"
+                style={{ display: 'block' }}
+            />
+        </section>
+
+    );
+};
+
+export default HeroSection;
