@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
                 <img
                     alt="Bantianyin White Logo"
                     className="h-12 mx-auto mb-4"
-                    src={`${process.env.PUBLIC_URL}/logo.jpg`}
+                    src={`${process.env.PUBLIC_URL}/imgs/logo.jpg`}
                 />
                 <div className="flex justify-center space-x-6 mb-4">
                     <a className="hover:text-cyan-400" href="#">Facebook</a>

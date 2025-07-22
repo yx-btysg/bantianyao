@@ -13,7 +13,7 @@ const MembershipSection: React.FC = () => {
                         <img
                             alt="QR code for membership"
                             className="bg-white p-2 rounded-lg w-40 h-40 mx-auto"
-                            src={`${process.env.PUBLIC_URL}/qr.jpg`}
+                            src={`${process.env.PUBLIC_URL}/imgs/qr.jpg`}
                         />
                         <p className="mt-2 font-semibold">Scan to Join</p>
                     </div>

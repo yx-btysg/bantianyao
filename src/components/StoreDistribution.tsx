@@ -10,7 +10,7 @@ const StoreDistribution: React.FC = () => {
                 </p>
                 <div className="mt-12 flex justify-center overflow-hidden">
                     <img
-                        src={`${process.env.PUBLIC_URL}/stores.jpg`}
+                        src={`${process.env.PUBLIC_URL}/imgs/stores.jpg`}
                         alt="Store Locations"
                         className="w-[70vw] max-w-full h-auto scale-80"
                         style={{ display: 'block' }}
