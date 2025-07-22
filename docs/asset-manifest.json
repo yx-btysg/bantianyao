@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bantianyao/static/css/main.34151fed.css",
-    "main.js": "/bantianyao/static/js/main.2bcce301.js",
+    "main.js": "/bantianyao/static/js/main.c00bc2db.js",
     "index.html": "/bantianyao/index.html",
     "main.34151fed.css.map": "/bantianyao/static/css/main.34151fed.css.map",
-    "main.2bcce301.js.map": "/bantianyao/static/js/main.2bcce301.js.map"
+    "main.c00bc2db.js.map": "/bantianyao/static/js/main.c00bc2db.js.map"
   },
   "entrypoints": [
     "static/css/main.34151fed.css",
-    "static/js/main.2bcce301.js"
+    "static/js/main.c00bc2db.js"
   ]
 }
