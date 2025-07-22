@@ -12,13 +12,13 @@ const StoreDistribution: React.FC = () => {
                     <img
                         src={`${process.env.PUBLIC_URL}/imgs/stores.jpg`}
                         alt="Store Locations"
-                        className="w-[70vw] max-w-full h-auto scale-80"
+                        className="w-[80vw] max-w-full h-auto scale-80"
                         style={{ display: 'block' }}
                     />
 
                 </div>
 
-                <div className="w-[70vw] mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center mt-12">
+                <div className="w-[80vw] mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center mt-12">
                     <div className="bg-white p-6 rounded-lg shadow-md">
                         <h3 className="text-xl font-bold text-cyan-500 mb-2">IMM Flagship</h3>
                         <p className="text-gray-600">2 Jurong East Street 21, #01 - 22 IMM Building, Singapore 609601

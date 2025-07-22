@@ -12,7 +12,7 @@ const BrandHistory: React.FC = () => {
                     <img
                         src={`${process.env.PUBLIC_URL}/imgs/brand-history.jpg`}
                         alt="Brand History"
-                        className="rounded-lg shadow-xl w-full max-w-3xl scale-110"
+                        className="rounded-lg shadow-xl w-full max-w-6xl scale-110"
                     />
                 </div>
             </div>

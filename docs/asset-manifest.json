@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bantianyao/static/css/main.34151fed.css",
-    "main.js": "/bantianyao/static/js/main.c00bc2db.js",
+    "main.css": "/bantianyao/static/css/main.881eff52.css",
+    "main.js": "/bantianyao/static/js/main.88c5b8a1.js",
     "index.html": "/bantianyao/index.html",
-    "main.34151fed.css.map": "/bantianyao/static/css/main.34151fed.css.map",
-    "main.c00bc2db.js.map": "/bantianyao/static/js/main.c00bc2db.js.map"
+    "main.881eff52.css.map": "/bantianyao/static/css/main.881eff52.css.map",
+    "main.88c5b8a1.js.map": "/bantianyao/static/js/main.88c5b8a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.34151fed.css",
-    "static/js/main.c00bc2db.js"
+    "static/css/main.881eff52.css",
+    "static/js/main.88c5b8a1.js"
   ]
 }
