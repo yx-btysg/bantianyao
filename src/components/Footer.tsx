@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
                     <a className="hover:text-cyan-400" href="#">Instagram</a>
                     <a className="hover:text-cyan-400" href="#">WeChat</a>
                 </div>
-                <p className="text-gray-400 text-sm">© 2025 HappyExplorer. All Rights Reserved.</p>
+                <p className="text-gray-400 text-sm">© 2025 Bantianyao. Website developed by <a href="https://happyexplorer.sg" target="_blank" className="underline hover:text-cyan-500">HappyExplorer.</a></p>
             </div>
         </footer>
     );

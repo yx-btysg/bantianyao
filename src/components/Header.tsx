@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+// Developed by HappyExplorer, 2025
 
+import React, { useState } from 'react';
 const translations = {
     en: {
         home: 'Home',
