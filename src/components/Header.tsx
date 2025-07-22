@@ -35,7 +35,7 @@ const Header: React.FC = () => {
                     <img
                         alt="Bantianyin Logo"
                         className="h-12 mr-3"
-                        src="/imgs/logo.jpg"
+                        src={`${process.env.PUBLIC_URL}/logo.jpg`}
                     />
                 </div>
                 <div className="hidden md:flex items-center space-x-8 text-gray-700">

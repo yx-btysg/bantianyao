@@ -10,7 +10,7 @@ const BrandHistory: React.FC = () => {
                 </p>
                 <div className="mt-12 flex justify-center overflow-hidden">
                     <img
-                        src="/imgs/brand-history.jpg"
+                        src={`${process.env.PUBLIC_URL}/brand-history.jpg`}
                         alt="Brand History"
                         className="rounded-lg shadow-xl w-full max-w-3xl scale-110"
                     />
